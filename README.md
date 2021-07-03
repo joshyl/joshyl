@@ -9,10 +9,11 @@
 
 ### Connect with me:
 
-<img align="left" alt="joshyl | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" href="https://twitter.com/notjoshlee" />
-<img align="left" alt="joshyl | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" href="https://www.linkedin.com/in/joshlee27/" />
+[<img align="left" alt="joshyl | Twitter" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" />][twitter]
+[<img align="left" alt="joshyl | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
 
 <br />
+
 ### Languages and Tools:
 <img align="left" alt="React" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="Javascript" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
@@ -34,3 +35,6 @@
 
 <br />
 <br />
+
+[twitter]: https://twitter.com/notjoshlee
+[linkedin]: https://www.linkedin.com/in/joshlee27/
