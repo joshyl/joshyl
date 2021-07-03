@@ -1,4 +1,8 @@
+<div align="center">
+
 ## Hi there 👋, I'm Josh!
+
+</div>
 
 ## I'm a Software Engineer and Developer who enjoys creating full-functioning applications with modern design that have a positive impact on the end user!!
 
