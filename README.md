@@ -1,12 +1,12 @@
 <div align="center">
 
-## Hi there 👋, I'm Josh!
+# Hi there 👋, I'm Josh!
 
 </div>
 
 <div align="center">
 
-## I'm a Software Engineer and Developer who enjoys creating full-functioning applications with modern design that have a positive impact on the end user!!
+### I'm a Software Engineer and Developer who enjoys creating full-functioning applications with modern design that have a positive impact on the end user!!
 
 </div>
 
