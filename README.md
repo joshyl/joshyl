@@ -4,7 +4,11 @@
 
 </div>
 
+<div align="center">
+
 ## I'm a Software Engineer and Developer who enjoys creating full-functioning applications with modern design that have a positive impact on the end user!!
+
+</div>
 
 - 🌱 I’m currently learning **TypeScript, GraphQL, Apollo**
 - 👯 I’m looking to collaborate on **challenging and creative projects**
